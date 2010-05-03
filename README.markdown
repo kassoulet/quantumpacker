@@ -35,7 +35,7 @@ to archive anything important.
     -rw-r--r-- 1 gautier gautier 6.2M 2010-05-02 22:44 big_buck_bunny_720p_surround.avi.quant
     -rw-r--r-- 1 gautier gautier 317M 2010-05-02 22:44 big_buck_bunny_720p_surround.avi.quant.orig
 
-    # and the really are the same.
+    # and they really are the same.
     gautier@quad-damage:~$ md5sum big*
     0da8fe124595f5b206d64cb1400bbefc  big_buck_bunny_720p_surround.avi
     0da8fe124595f5b206d64cb1400bbefc  big_buck_bunny_720p_surround.avi.quant.orig
